@@ -3,12 +3,14 @@
 #include <PS2X_lib.h>
 #include <Servo.h>
 #include <Wire.h>
+
+//#include "C:\Program Files (x86)\Arduino\hardware\arduino\avr\libraries\Wire\"
 #include <SSD1306AsciiWire.h>
 #include "myRobot.h"
 #include "myDefinitions.h"
 
 //#define debugMotors      //define to turn off
-#define raspberryPI    //define to check serial for pi
+//#define raspberryPI    //define to check serial for pi
 
 myRobotClass myRobot;
 
