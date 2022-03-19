@@ -70,9 +70,12 @@ void loop()
 
         myRobot.myDisplay.setCursor(0, 4); myRobot.myDisplay.clearToEOL(); myRobot.myDisplay.print(myRobot.myMotors.actSpeedL);
         myRobot.myDisplay.print(" "); myRobot.myDisplay.println(myRobot.myMotors.actSpeedR);
-#ifndef debugMotors
-        myRobot.myDisplay.setCursor(0, 6); myRobot.myDisplay.clearToEOL(); myRobot.myDisplay.print(myRobot.myMotors.getEncoderL());
-        myRobot.myDisplay.print(" "); myRobot.myDisplay.print(myRobot.myMotors.getEncoderR());
-#endif
+
+        myRobot.myDisplay.setCursor(0, 6); myRobot.myDisplay.clearToEOL(); myRobot.myDisplay.print(myRobot.speedL);
+        myRobot.myDisplay.print(" "); myRobot.myDisplay.println(myRobot.speedR);
+//#ifndef debugMotors
+//        myRobot.myDisplay.setCursor(0, 6); myRobot.myDisplay.clearToEOL(); myRobot.myDisplay.print(myRobot.myMotors.getEncoderL());
+//        myRobot.myDisplay.print(" "); myRobot.myDisplay.print(myRobot.myMotors.getEncoderR());
+//#endif
     }
 }
