@@ -17,7 +17,7 @@ myRobotClass::myRobotClass() : myDisplay(), mySensors(DISTANCE_SENSORS), myRemot
 #endif
 
 #ifdef debugMotors
-RobotClass::RobotClass() : myDisplay(), myMotors(), mySensors(DISTANCE_SENSORS), myRemote(), diffSteer()
+myRobotClass::myRobotClass() : myDisplay(), myMotors(), mySensors(DISTANCE_SENSORS), myRemote(), diffSteer()
 {
     speedL = 90;
     speedR = 90;
