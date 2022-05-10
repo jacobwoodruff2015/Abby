@@ -1,0 +1,102 @@
+﻿  DifferentialSteering.cpp
+C:\Users\jacob\Dropbox\myGitHub\Abby\DifferentialSteering.cpp : warning C4117: macro name '__cplusplus' is reserved, '#define' ignored
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(16,1): warning C4005: '__AVR_atmega2560__': macro redefinition
+C:\Users\jacob\Dropbox\myGitHub\Abby\DifferentialSteering.cpp : message : see previous definition of '__AVR_atmega2560__'
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(17,1): warning C4005: '__AVR_ATmega2560__': macro redefinition
+C:\Users\jacob\Dropbox\myGitHub\Abby\DifferentialSteering.cpp : message : see previous definition of '__AVR_ATmega2560__'
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(20,1): warning C4005: 'ARDUINO_AVR_MEGA2560': macro redefinition
+C:\Users\jacob\Dropbox\myGitHub\Abby\DifferentialSteering.cpp : message : see previous definition of 'ARDUINO_AVR_MEGA2560'
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(21,1): warning C4005: 'ARDUINO_ARCH_AVR': macro redefinition
+C:\Users\jacob\Dropbox\myGitHub\Abby\DifferentialSteering.cpp : message : see previous definition of 'ARDUINO_ARCH_AVR'
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(22,1): warning C4117: macro name '__cplusplus' is reserved, '#define' ignored
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(31,1): warning C4117: macro name '__cplusplus' is reserved, '#undef' ignored
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(32,1): warning C4117: macro name '__cplusplus' is reserved, '#define' ignored
+C:\Program Files (x86)\Arduino\hardware\tools\avr\lib\gcc\avr\7.3.0\include\stddef.h(216,23): error C2371: 'size_t': redefinition; different basic types
+C:\Users\jacob\Dropbox\myGitHub\Abby\predefined C++ types (compiler internal)(16): message : see declaration of 'size_t'
+C:\Program Files (x86)\Arduino\hardware\tools\avr\avr\include\stdlib.h(73,3): error C2371: 'div_t': redefinition; different basic types
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(64): message : see declaration of 'div_t'
+C:\Program Files (x86)\Arduino\hardware\tools\avr\avr\include\stdlib.h(79,3): error C2371: 'ldiv_t': redefinition; different basic types
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(65): message : see declaration of 'ldiv_t'
+C:\Program Files (x86)\Arduino\hardware\tools\avr\lib\gcc\avr\7.3.0\include\stdint.h(9,1): fatal error C1021: invalid preprocessor command 'include_next'
+  myMotors.cpp
+C:\Users\jacob\Dropbox\myGitHub\Abby\myMotors.cpp : warning C4117: macro name '__cplusplus' is reserved, '#define' ignored
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(16,1): warning C4005: '__AVR_atmega2560__': macro redefinition
+C:\Users\jacob\Dropbox\myGitHub\Abby\myMotors.cpp : message : see previous definition of '__AVR_atmega2560__'
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(17,1): warning C4005: '__AVR_ATmega2560__': macro redefinition
+C:\Users\jacob\Dropbox\myGitHub\Abby\myMotors.cpp : message : see previous definition of '__AVR_ATmega2560__'
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(20,1): warning C4005: 'ARDUINO_AVR_MEGA2560': macro redefinition
+C:\Users\jacob\Dropbox\myGitHub\Abby\myMotors.cpp : message : see previous definition of 'ARDUINO_AVR_MEGA2560'
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(21,1): warning C4005: 'ARDUINO_ARCH_AVR': macro redefinition
+C:\Users\jacob\Dropbox\myGitHub\Abby\myMotors.cpp : message : see previous definition of 'ARDUINO_ARCH_AVR'
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(22,1): warning C4117: macro name '__cplusplus' is reserved, '#define' ignored
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(31,1): warning C4117: macro name '__cplusplus' is reserved, '#undef' ignored
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(32,1): warning C4117: macro name '__cplusplus' is reserved, '#define' ignored
+C:\Program Files (x86)\Arduino\hardware\tools\avr\lib\gcc\avr\7.3.0\include\stddef.h(216,23): error C2371: 'size_t': redefinition; different basic types
+C:\Users\jacob\Dropbox\myGitHub\Abby\predefined C++ types (compiler internal)(16): message : see declaration of 'size_t'
+C:\Program Files (x86)\Arduino\hardware\tools\avr\avr\include\stdlib.h(73,3): error C2371: 'div_t': redefinition; different basic types
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(64): message : see declaration of 'div_t'
+C:\Program Files (x86)\Arduino\hardware\tools\avr\avr\include\stdlib.h(79,3): error C2371: 'ldiv_t': redefinition; different basic types
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(65): message : see declaration of 'ldiv_t'
+C:\Program Files (x86)\Arduino\hardware\tools\avr\lib\gcc\avr\7.3.0\include\stdint.h(9,1): fatal error C1021: invalid preprocessor command 'include_next'
+  myRemote.cpp
+C:\Users\jacob\Dropbox\myGitHub\Abby\myRemote.cpp : warning C4117: macro name '__cplusplus' is reserved, '#define' ignored
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(16,1): warning C4005: '__AVR_atmega2560__': macro redefinition
+C:\Users\jacob\Dropbox\myGitHub\Abby\myRemote.cpp : message : see previous definition of '__AVR_atmega2560__'
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(17,1): warning C4005: '__AVR_ATmega2560__': macro redefinition
+C:\Users\jacob\Dropbox\myGitHub\Abby\myRemote.cpp : message : see previous definition of '__AVR_ATmega2560__'
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(20,1): warning C4005: 'ARDUINO_AVR_MEGA2560': macro redefinition
+C:\Users\jacob\Dropbox\myGitHub\Abby\myRemote.cpp : message : see previous definition of 'ARDUINO_AVR_MEGA2560'
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(21,1): warning C4005: 'ARDUINO_ARCH_AVR': macro redefinition
+C:\Users\jacob\Dropbox\myGitHub\Abby\myRemote.cpp : message : see previous definition of 'ARDUINO_ARCH_AVR'
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(22,1): warning C4117: macro name '__cplusplus' is reserved, '#define' ignored
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(31,1): warning C4117: macro name '__cplusplus' is reserved, '#undef' ignored
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(32,1): warning C4117: macro name '__cplusplus' is reserved, '#define' ignored
+C:\Program Files (x86)\Arduino\hardware\tools\avr\lib\gcc\avr\7.3.0\include\stddef.h(216,23): error C2371: 'size_t': redefinition; different basic types
+C:\Users\jacob\Dropbox\myGitHub\Abby\predefined C++ types (compiler internal)(16): message : see declaration of 'size_t'
+C:\Program Files (x86)\Arduino\hardware\tools\avr\avr\include\stdlib.h(73,3): error C2371: 'div_t': redefinition; different basic types
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(64): message : see declaration of 'div_t'
+C:\Program Files (x86)\Arduino\hardware\tools\avr\avr\include\stdlib.h(79,3): error C2371: 'ldiv_t': redefinition; different basic types
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(65): message : see declaration of 'ldiv_t'
+C:\Program Files (x86)\Arduino\hardware\tools\avr\lib\gcc\avr\7.3.0\include\stdint.h(9,1): fatal error C1021: invalid preprocessor command 'include_next'
+  mySensors.cpp
+C:\Users\jacob\Dropbox\myGitHub\Abby\mySensors.cpp : warning C4117: macro name '__cplusplus' is reserved, '#define' ignored
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(16,1): warning C4005: '__AVR_atmega2560__': macro redefinition
+C:\Users\jacob\Dropbox\myGitHub\Abby\mySensors.cpp : message : see previous definition of '__AVR_atmega2560__'
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(17,1): warning C4005: '__AVR_ATmega2560__': macro redefinition
+C:\Users\jacob\Dropbox\myGitHub\Abby\mySensors.cpp : message : see previous definition of '__AVR_ATmega2560__'
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(20,1): warning C4005: 'ARDUINO_AVR_MEGA2560': macro redefinition
+C:\Users\jacob\Dropbox\myGitHub\Abby\mySensors.cpp : message : see previous definition of 'ARDUINO_AVR_MEGA2560'
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(21,1): warning C4005: 'ARDUINO_ARCH_AVR': macro redefinition
+C:\Users\jacob\Dropbox\myGitHub\Abby\mySensors.cpp : message : see previous definition of 'ARDUINO_ARCH_AVR'
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(22,1): warning C4117: macro name '__cplusplus' is reserved, '#define' ignored
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(31,1): warning C4117: macro name '__cplusplus' is reserved, '#undef' ignored
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(32,1): warning C4117: macro name '__cplusplus' is reserved, '#define' ignored
+C:\Program Files (x86)\Arduino\hardware\tools\avr\lib\gcc\avr\7.3.0\include\stddef.h(216,23): error C2371: 'size_t': redefinition; different basic types
+C:\Users\jacob\Dropbox\myGitHub\Abby\predefined C++ types (compiler internal)(16): message : see declaration of 'size_t'
+C:\Program Files (x86)\Arduino\hardware\tools\avr\avr\include\stdlib.h(73,3): error C2371: 'div_t': redefinition; different basic types
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(64): message : see declaration of 'div_t'
+C:\Program Files (x86)\Arduino\hardware\tools\avr\avr\include\stdlib.h(79,3): error C2371: 'ldiv_t': redefinition; different basic types
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(65): message : see declaration of 'ldiv_t'
+C:\Program Files (x86)\Arduino\hardware\tools\avr\lib\gcc\avr\7.3.0\include\stdint.h(9,1): fatal error C1021: invalid preprocessor command 'include_next'
+  myRobot.cpp
+C:\Users\jacob\Dropbox\myGitHub\Abby\myRobot.cpp : warning C4117: macro name '__cplusplus' is reserved, '#define' ignored
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(16,1): warning C4005: '__AVR_atmega2560__': macro redefinition
+C:\Users\jacob\Dropbox\myGitHub\Abby\myRobot.cpp : message : see previous definition of '__AVR_atmega2560__'
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(17,1): warning C4005: '__AVR_ATmega2560__': macro redefinition
+C:\Users\jacob\Dropbox\myGitHub\Abby\myRobot.cpp : message : see previous definition of '__AVR_ATmega2560__'
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(20,1): warning C4005: 'ARDUINO_AVR_MEGA2560': macro redefinition
+C:\Users\jacob\Dropbox\myGitHub\Abby\myRobot.cpp : message : see previous definition of 'ARDUINO_AVR_MEGA2560'
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(21,1): warning C4005: 'ARDUINO_ARCH_AVR': macro redefinition
+C:\Users\jacob\Dropbox\myGitHub\Abby\myRobot.cpp : message : see previous definition of 'ARDUINO_ARCH_AVR'
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(22,1): warning C4117: macro name '__cplusplus' is reserved, '#define' ignored
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(31,1): warning C4117: macro name '__cplusplus' is reserved, '#undef' ignored
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(32,1): warning C4117: macro name '__cplusplus' is reserved, '#define' ignored
+C:\Program Files (x86)\Arduino\hardware\tools\avr\lib\gcc\avr\7.3.0\include\stddef.h(216,23): error C2371: 'size_t': redefinition; different basic types
+C:\Users\jacob\Dropbox\myGitHub\Abby\predefined C++ types (compiler internal)(16): message : see declaration of 'size_t'
+C:\Program Files (x86)\Arduino\hardware\tools\avr\avr\include\stdlib.h(73,3): error C2371: 'div_t': redefinition; different basic types
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(64): message : see declaration of 'div_t'
+C:\Program Files (x86)\Arduino\hardware\tools\avr\avr\include\stdlib.h(79,3): error C2371: 'ldiv_t': redefinition; different basic types
+C:\Users\jacob\Dropbox\myGitHub\Abby\__vm\.Abby.vsarduino.h(65): message : see declaration of 'ldiv_t'
+C:\Program Files (x86)\Arduino\hardware\tools\avr\lib\gcc\avr\7.3.0\include\stdint.h(9,1): fatal error C1021: invalid preprocessor command 'include_next'
+  Running Code Analysis for C/C++...
+  Generating Code...

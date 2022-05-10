@@ -102,6 +102,7 @@
     <None Include="Abby.ino">
       <FileType>CppCode</FileType>
     </None>
+    <None Include="ClassDiagram.cd" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DifferentialSteering.h">
